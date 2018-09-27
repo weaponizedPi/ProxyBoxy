@@ -1,0 +1,9 @@
+user "emnify"
+connect "/user/sbin/chat -v -f /etc/chatscripts/gprs -T em"
+/dev/ttyUSB0
+noipdefault
+replacedefaultroute
+hide-password
+noauth
+persist
+usepeerdns
