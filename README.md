@@ -4,7 +4,8 @@ ProxyBoxy Configuration Files
 This repository holds the configuration files and scripts used in the CactusCon 2018 talk "Weaponizing Your Pi" for the ProxyBoxy Raspberry Pi 3B using a USB Modem, Stegranography, and Reverse SSH tunnels to allow connections into your Pi.
 
 # Requirements
-- USB Modem - Hauwei E3372h-510 Unlocked was used for the demo.
+- USB Modem - Hauwei E3372h-510 Unlocked was used for the demo. 
+   https://www.amazon.com/E3372-510-Unlocked-150Mbps-Caribbean-External/dp/B01N6P3HI2
 - A SIM card - I used Ting https://ting.com/.
 - Kali Linux - Latest version https://www.kali.org/downloads/.
 - Stegranography - https://github.com/RobinDavid/LSB-Steganography.
