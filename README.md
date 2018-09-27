@@ -48,9 +48,9 @@ This repository holds the configuration files and scripts used in the CactusCon 
 
 3. Place connection.sh in your root folder and update the LSB-Steganography hardcoded locations. 
 
-4. If you have your cloud server running and have gererated your private key to access it, then use the tunnel_user_create.sh script in conjunction with rules.txt to create your tunnel user on your cloud server.
+4. If you have your cloud server running and have gererated your private key to access it, then use the tunnel_user_create.sh script in conjunction with rules.txt to create your tunnel user on your cloud server. *NOTE: do not set a password when requested by tunnel_user_create.sh, just hit enter and move on*
 
-5. Choose two PNGs that you would like to use for your IP and KEY, then use LSBSteg.txt.py to encode both images and upload them to a image hosting site, such as 24hr.rip.  Copy the location of the files and update connection.sh's IMG_key and IMG_IP values. 
+5. Choose two PNGs that you would like to use for your IP and PRIVATE KEY for your tunnel user, then use LSBSteg.txt.py to encode both images and upload them to a image hosting site, such as 24hr.rip.  Copy the location of the files from the image host and update connection.sh's IMG_key and IMG_IP values. 
 
 6. Execute connection.sh and read the output, if successful, you should see the images downloaded via wget, decoded output, and a messages asking you to verify the tunnel on port 2224 on your cloud server.  You can use a local system for testing if you do not have a cloud host to work with. 
 
