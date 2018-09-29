@@ -55,9 +55,6 @@ This repository holds the configuration files and scripts used in the CactusCon 
 
 6. Execute connection.sh and read the output, if successful, you should see the images downloaded via wget, decoded output, and a messages asking you to verify the tunnel on port 2224 on your cloud server.  You can use a local system for testing if you do not have a cloud host to work with. 
 
-# RasPI 
-
-NOTE ANY CHANGES with PI in notes at home
  
 # Boot
 
