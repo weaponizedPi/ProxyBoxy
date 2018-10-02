@@ -1,7 +1,7 @@
 # ProxyBoxy
 ProxyBoxy Configuration Files
 
-This repository holds the configuration files and scripts used in the CactusCon 2018 talk "Weaponizing Your Pi" for the ProxyBoxy Raspberry Pi 3B using a USB Modem, Stegranography, and Reverse SSH tunnels to allow connections into your Pi.
+This repository holds the configuration files and scripts used in the CactusCon 2018 talk "Weaponizing Your Pi" https://youtu.be/uuv68GX20R8?t=2588 for the ProxyBoxy Raspberry Pi 3B using a USB Modem, Stegranography, and Reverse SSH tunnels to allow connections into your Pi.
 
 # Requirements
 - USB Modem - Hauwei E3372h-510 Unlocked was used for the demo. 
